@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="EigenschaftsMethode.CFahrzeugDlg">
+    <Position X="0.5" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAgAACQCAAEAAACAAQIGAYCgAACAAAAIQAAAAAA=</HashCode>
+      <FileName>CFahrzeugDlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EigenschaftsMethode.CFahrzeug">
+    <Position X="5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAAAAIAAAAAQAAAAAAAIEBAgAAAAAAAAAAKAAQAAA=</HashCode>
+      <FileName>CFahrzeug.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
